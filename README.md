@@ -9,12 +9,6 @@ FilmFolio is a sleek and simple web application that lets you discover trending 
 - 🎞 Hover to reveal movie overview/description
 - 🎨 Responsive and modern UI with attractive design
 
-## 🚀 Live Demo
-> Coming soon or deploy using GitHub Pages / Netlify / Vercel
-
-## 📸 Screenshots
-> _(You can add screenshots here after deployment or from browser preview)_
-
 ## 📁 Project Structure
 ├── index.html # Main HTML structure
 ├── style.css # All styling using CSS
